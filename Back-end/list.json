@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Languages",
+    "items": [
+      { "title": "Java" },
+      { "title": "Javascript" },
+      { "title": "PHP" },
+      { "title": "Go" },
+      { "title": "Rust" },
+      { "title": "Python" },
+      { "title": "C#" },
+      { "title": "Progress" }
+    ]
+  },
+  {
+    "title": "Frameworks",
+    "items": [
+      { "title": "Java", "items": [{ "title": "Spring Boot" }] },
+      {
+        "title": "PHP",
+        "items": [
+          { "title": "Laravel" },
+          { "title": "Lumen" },
+          { "title": "Symfony" },
+          { "title": "Yii Framework" }
+        ]
+      },
+      {
+        "title": "Python",
+        "items": [{ "title": "Django" }, { "title": "Flask" }]
+      },
+      { "title": ".NET", "items": [{ "title": ".NET Core" }] }
+    ]
+  },
+  {
+    "title": "Relational Databases",
+    "items": [
+      {
+        "title": "MySQL"
+      },
+      {
+        "title": "Post"
+      },
+      {
+        "title": "Bull"
+      }
+    ]
+  },
+  {
+    "title": "Non Relational Databases",
+    "items": [
+      {
+        "title": "MongoDB"
+      }
+    ]
+  },
+  {
+    "title": "Messaging, Streaming and Queues",
+    "items": [
+      {
+        "title": "Apache Kafka"
+      },
+      {
+        "title": "RabbitMQ"
+      },
+      {
+        "title": "Bull"
+      }
+    ]
+  }
+]

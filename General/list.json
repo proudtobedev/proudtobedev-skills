@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Version control systems",
+    "items": [
+      {
+        "title": "GIT"
+      },
+      {
+        "title": "SVN"
+      },
+      {
+        "title": "Repo hosting services",
+        "items": [
+          { "title": "Github" },
+          { "title": "Bitbucket" },
+          { "title": "Gitlab" },
+          { "title": "Azure Devops" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Methodologies",
+    "items": [
+      {
+        "title": "SCRUM"
+      },
+      {
+        "title": "SAFe"
+      },
+      {
+        "title": "XP"
+      }
+    ]
+  },
+  {
+    "title": "Experienced functions",
+    "items": [
+      {
+        "title": "Tech leader"
+      },
+      {
+        "title": "SCRUM Master"
+      }
+    ]
+  },
+  {
+    "title": "Basic Concepts",
+    "items": [
+      {
+        "title": "API RESTful"
+      },
+      {
+        "title": "Objects oriented programming"
+      },
+      {
+        "title": "Functional programming"
+      },
+      {
+        "title": "Programming Logic"
+      }
+    ]
+  },
+  {
+    "title": "Design Patterns",
+    "items": [
+      {
+        "title": "MVC"
+      },
+      {
+        "title": "MVVM"
+      }
+    ]
+  },
+  {
+    "title": "Best Practices",
+    "items": [
+      {
+        "title": "Clean Code"
+      },
+      {
+        "title": "SOLID"
+      }
+    ]
+  }
+]

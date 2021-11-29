@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Basic",
+    "items": [
+      { "title": "HTML" },
+      { "title": "CSS" },
+      { "title": "Javascript" }
+    ]
+  },
+  {
+    "title": "Package Managers",
+    "items": [
+      { "title": "NPM" },
+      { "title": "Yarn" },
+      { "title": "Maven" },
+      { "title": "Gradle" }
+    ]
+  },
+  {
+    "title": "CSS Preprocessors",
+    "items": [{ "title": "SASS" }, { "title": "LESS" }, { "title": "PostCSS" }]
+  },
+  ,
+  {
+    "title": "Build Tools",
+    "items": [
+      {
+        "title": "Task Runners",
+        "items": [{ "title": "NPM Scripts" }, { "title": "Gulp" }]
+      },
+      {
+        "title": "Lintersand Formatters",
+        "items": [
+          { "title": "ESLint" },
+          { "title": "Prettier" },
+          { "title": "StandardJS" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frameworks",
+    "items": [
+      { "title": "React.JS" },
+      { "title": "Angular.JS" },
+      { "title": "Vue.JS" }
+    ]
+  },
+  {
+    "title": "State Managers",
+    "items": [
+      { "title": "Redux" },
+      { "title": "MobX" },
+      { "title": "VueX" },
+      { "title": "RxJS" },
+      { "title": "NgRX" }
+    ]
+  },
+  {
+    "title": "Modern CSS",
+    "items": [
+      { "title": "Styled-Components" },
+      { "title": "CSS Modules" },
+      { "title": "Styled JSX" },
+      { "title": "Emotion" },
+      { "title": "Radium" },
+      ,
+      { "title": "Glomorous" }
+    ]
+  },
+  {
+    "title": "UI Libraries",
+    "items": [
+      { "title": "Bootstrap" },
+      { "title": "Materialize" },
+      { "title": "Material UI" },
+      { "title": "Talwind CSS" },
+      { "title": "Chakra UI" }
+    ]
+  },
+  {
+    "title": "Tests",
+    "items": [
+      {
+        "title": "Unit",
+        "items": [
+          { "title": "Mocha" },
+          { "title": "Chai" },
+          { "title": "Ava" },
+          { "title": "Jasmine" }
+        ]
+      },
+      { "title": "Integration", "items": [{ "title": "Supertest" }] },
+      {
+        "title": "Automated",
+        "items": [
+          { "title": "Jest" },
+          { "title": "React Testing Library" },
+          { "title": "Cypress" },
+          { "title": "Enzyme" },
+          { "title": "Selenium" }
+        ]
+      },
+      { "title": "Performance/Stress", "items": [{ "title": "Gatling" }] }
+    ]
+  },
+  {
+    "title": "Type checkers",
+    "items": [{ "title": "Typescript" }, { "title": "Flow" }]
+  },
+  {
+    "title": "CMS",
+    "items": [{ "title": "Wordpress" }]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "title": "Native",
+      "items": [
+        {
+          "title": "Android",
+          "items": [{ "title": "Kotlin" }, { "title": "Java (Mobile)" }]
+        },
+        {
+          "title": "iOS",
+          "items": [{ "title": "Objective-C" }, { "title": "Swift" }]
+        }
+      ]
+    },
+    {
+      "title": "Hybrid",
+      "items": [
+        { "title": "React Native" },
+        { "title": "Ionic" },
+        { "title": "Adobe Phonegap" },
+        { "title": "Apache Cordova" },
+        { "title": "Flutter" },
+        { "title": "Framework7" },
+        { "title": "Kendo UI" },
+        { "title": "Quasar" },
+        { "title": "Aurelia" },
+        { "title": "Onsen UI" },
+        { "title": "Ext JS" },
+        { "title": "Axway Appcelerator" },
+        { "title": "Xamarin" },
+        { "title": "NativeScript" }
+      ]
+    }
+  ]
+]

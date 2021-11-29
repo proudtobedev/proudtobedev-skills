@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Basic",
+    "items": [
+      {
+        "title": "Unix"
+      },
+      {
+        "title": "Shell scripting"
+      }
+    ]
+  },
+  {
+    "title": "Cloud",
+    "items": [
+      {
+        "title": "Public Clouds",
+        "items": [
+          {
+            "title": "AWS"
+          },
+          {
+            "title": "Azure"
+          }
+        ]
+      },
+      {
+        "title": "Private Clouds",
+        "items": [
+          {
+            "title": "Heroku"
+          },
+          {
+            "title": "Umbler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Containers",
+    "items": [
+      {
+        "title": "Docker"
+      },
+      {
+        "title": "Docker-compose"
+      },
+      {
+        "title": "Docker Swarm"
+      },
+      {
+        "title": "Kubernetes"
+      },
+      {
+        "title": "Rancher"
+      },
+      {
+        "title": "Red Hat Openshift"
+      }
+    ]
+  },
+  {
+    "title": "Monitoring",
+    "items": [
+      {
+        "title": "Grafana"
+      },
+      {
+        "title": "Kibana"
+      },
+      {
+        "title": "Zabix"
+      }
+    ]
+  },
+  {
+    "title": "CI/CD",
+    "items": [
+      {
+        "title": "Jenkins"
+      },
+      {
+        "title": "Gitlab CI"
+      },
+      {
+        "title": "Azure Pipelines"
+      },
+      {
+        "title": "Bitbucket Pipelines"
+      },
+      {
+        "title": "Travis CI"
+      },
+      {
+        "title": "Circle CI"
+      }
+    ]
+  },
+  {
+    "title": "Infraestructure as code",
+    "items": [
+      {
+        "title": "Terraform"
+      }
+    ]
+  }
+]
