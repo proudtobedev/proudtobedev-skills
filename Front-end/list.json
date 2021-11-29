@@ -20,7 +20,6 @@
     "title": "CSS Preprocessors",
     "items": [{ "title": "SASS" }, { "title": "LESS" }, { "title": "PostCSS" }]
   },
-  ,
   {
     "title": "Build Tools",
     "items": [
@@ -64,7 +63,6 @@
       { "title": "Styled JSX" },
       { "title": "Emotion" },
       { "title": "Radium" },
-      ,
       { "title": "Glomorous" }
     ]
   },
