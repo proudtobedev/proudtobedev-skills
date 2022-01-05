@@ -10,10 +10,10 @@
   {
     "title": "Package Managers",
     "items": [
-      { "title": "NPM" },
-      { "title": "Yarn" },
-      { "title": "Maven" },
-      { "title": "Gradle" }
+      { "title": "NPM (Front-end)" },
+      { "title": "Yarn (Front-end)" },
+      { "title": "Maven (Front-end)" },
+      { "title": "Gradle (Front-end)" }
     ]
   },
   {
@@ -28,7 +28,7 @@
         "items": [{ "title": "NPM Scripts" }, { "title": "Gulp" }]
       },
       {
-        "title": "Lintersand Formatters",
+        "title": "Linters and Formatters",
         "items": [
           { "title": "ESLint" },
           { "title": "Prettier" },
@@ -41,8 +41,10 @@
     "title": "Frameworks",
     "items": [
       { "title": "React.JS" },
+      { "title": "Next.JS" },
       { "title": "Angular.JS" },
-      { "title": "Vue.JS" }
+      { "title": "Vue.JS" },
+      { "title": "Hyperapp" }
     ]
   },
   {
@@ -108,6 +110,11 @@
   },
   {
     "title": "CMS",
-    "items": [{ "title": "Wordpress" }]
+    "items": [
+      { "title": "Wordpress" },
+      { "title": "Joomla" },
+      { "title": "Drupal" },
+      { "title": "Ghost" }
+    ]
   }
 ]

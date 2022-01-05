@@ -73,13 +73,25 @@
     ]
   },
   {
-    "title": "Best Practices",
+    "title": "Good Practices",
     "items": [
       {
         "title": "Clean Code"
       },
       {
         "title": "SOLID"
+      },
+      {
+        "title": "TDD"
+      },
+      {
+        "title": "Microservices"
+      },
+      {
+        "title": "Micro Frontends"
+      },
+      {
+        "title": "Gitflow"
       }
     ]
   }

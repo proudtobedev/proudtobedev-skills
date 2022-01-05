@@ -7,33 +7,32 @@
       },
       {
         "title": "Shell scripting"
+      },
+      {
+        "title": "Power Shell scripting"
       }
     ]
   },
   {
-    "title": "Cloud",
+    "title": "Cloud Providers",
     "items": [
       {
-        "title": "Public Clouds",
-        "items": [
-          {
-            "title": "AWS"
-          },
-          {
-            "title": "Azure"
-          }
-        ]
+        "title": "AWS"
       },
       {
-        "title": "Private Clouds",
-        "items": [
-          {
-            "title": "Heroku"
-          },
-          {
-            "title": "Umbler"
-          }
-        ]
+        "title": "Azure"
+      },
+      {
+        "title": "Google Cloud Platform"
+      },
+      {
+        "title": "Heroku"
+      },
+      {
+        "title": "Umbler"
+      },
+      {
+        "title": "Digital Ocean"
       }
     ]
   },
@@ -71,6 +70,12 @@
       },
       {
         "title": "Zabix"
+      },
+      {
+        "title": "AWS Cloudwatch"
+      },
+      {
+        "title": "Azure Application Insights"
       }
     ]
   },
@@ -102,6 +107,15 @@
     "items": [
       {
         "title": "Terraform"
+      },
+      {
+        "title": "Ansible"
+      },
+      {
+        "title": "Azure ARM"
+      },
+      {
+        "title": "AWS CloudFormation"
       }
     ]
   }

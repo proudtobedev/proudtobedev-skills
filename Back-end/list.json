@@ -4,6 +4,7 @@
     "items": [
       { "title": "Java" },
       { "title": "Javascript" },
+      { "title": "Node.JS" },
       { "title": "PHP" },
       { "title": "Go" },
       { "title": "Rust" },
@@ -15,13 +16,29 @@
   {
     "title": "Frameworks",
     "items": [
-      { "title": "Java", "items": [{ "title": "Spring Boot" }] },
+      {
+        "title": "Java",
+        "items": [
+          {
+            "title": "Spring",
+            "items": [
+              { "title": "Spring Boot" },
+              { "title": "Spring Security" },
+              { "title": "Config Server" },
+              { "title": "Eureka" }
+            ]
+          },
+          { "title": "Micronaut" },
+          { "title": "Quarkus" }
+        ]
+      },
       {
         "title": "PHP",
         "items": [
           { "title": "Laravel" },
           { "title": "Lumen" },
           { "title": "Symfony" },
+          { "title": "CodeIgniter" },
           { "title": "Yii Framework" }
         ]
       },
@@ -29,8 +46,13 @@
         "title": "Python",
         "items": [{ "title": "Django" }, { "title": "Flask" }]
       },
-      { "title": ".NET", "items": [{ "title": ".NET Core" }] }
+      { "title": ".NET", "items": [{ "title": ".NET Core" }] },
+      { "title": "Javascript", "items": [{ "title": "Express" }] }
     ]
+  },
+  {
+    "title": "Package Managers",
+    "items": [{ "title": "Maven (Back-end)" }, { "title": "Gradle (Back-end)" }]
   },
   {
     "title": "Relational Databases",
@@ -71,6 +93,40 @@
       },
       {
         "title": "Bull"
+      }
+    ]
+  },
+  {
+    "title": "Tests",
+    "items": [
+      {
+        "title": "Unit",
+        "items": [{ "title": "Junit" }, { "title": "PHP Unit" }]
+      }
+    ]
+  },
+  {
+    "title": "Microservices",
+    "items": [
+      {
+        "title": "CQRS"
+      },
+      {
+        "title": "API Composition"
+      },
+      {
+        "title": "API Sagas"
+      }
+    ]
+  },
+  {
+    "title": "Security Patterns",
+    "items": [
+      {
+        "title": "OAuth 2"
+      },
+      {
+        "title": "JWT"
       }
     ]
   }
