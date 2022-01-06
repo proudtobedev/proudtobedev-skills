@@ -3,7 +3,6 @@
     "title": "Languages",
     "items": [
       { "title": "Java" },
-      { "title": "Javascript" },
       { "title": "Node.JS" },
       { "title": "PHP" },
       { "title": "Go" },
